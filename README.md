@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Haudálio JJ Portraite, Mozambican, Graduated in Electrical Engineering
 - 👀 I’m interested in ... Programming, Microcontrollers (PIC, Arduino, STM32, etc), Raspberry, Computers.
-- 🌱 I’m currently learning ... C ANSI, Python, HMTL, JAVASCRIPT, CSS, FLASK, RASPBERRY PI, PIC-MICROCONTROLLER, STM32
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... C ANSI, Python, HMTL, JAVASCRIPT, CSS, FLASK, RASPBERRY PI, PIC-MICROCONTROLLER, STM32, ...
+- 💞️ I’m looking to collaborate on MAKE THE WORLD A BETTER PLACE ...
 - 📫 How to reach me ... haudaliojjp@hotmail.com
 
 <!---
